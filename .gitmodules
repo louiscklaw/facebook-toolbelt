@@ -1,0 +1,3 @@
+[submodule "scraper/facebook/facebook-scraper"]
+	path = scraper/facebook/facebook-scraper
+	url = git@github.com:kevinzg/facebook-scraper.git
