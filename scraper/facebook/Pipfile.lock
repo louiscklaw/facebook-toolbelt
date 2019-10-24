@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3764e9d2251a97cdcc1afcd9271f9efbfb6f45374af7d531e0c5c29536873004"
+            "sha256": "635aa6048a86eb110221eb3c9c417542b0ed342547fbbc509f1f4e69fd4f9227"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -57,14 +57,6 @@
                 "sha256:f95f8dedd925fd8f54edb3d2dfb44c190d9d18512377d3c1e2388d16126879bc"
             ],
             "version": "==1.1.0"
-        },
-        "facebook-scraper": {
-            "hashes": [
-                "sha256:d8ee9372839483333d94e881632cb8a920cc67f95547e98f43f4b86ec752c102",
-                "sha256:f958e9ed2d9f199e67053502747c9a59fe0eaa29979c41a903399c812b3766b9"
-            ],
-            "index": "pypi",
-            "version": "==0.1.5"
         },
         "fake-useragent": {
             "hashes": [
@@ -144,6 +136,7 @@
                 "sha256:7e929ecfed95fb1d0994bb368295d6d7c4d06b03fcb900c33d7d0b17e6003947",
                 "sha256:cb8a78cf829c4eca9d6233f28524f65dd2bfaafb4bdbbc407f0a0b8f487df6e2"
             ],
+            "index": "pypi",
             "version": "==0.10.0"
         },
         "six": {
